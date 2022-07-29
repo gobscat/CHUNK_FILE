@@ -33,8 +33,8 @@ addSign2.addEventListener("click", () => {
 
 minusSign2.addEventListener("click", () => {
   questionBox2.style.display = "block";
-  questionBox.style.display = "flex";
-  answerBox.style.display = "none";
+  questionBox2.style.display = "flex";
+  answerBox2.style.display = "none";
 });
 
 addSign3.addEventListener("click", () => {
